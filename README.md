@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ujjwal! 👋
 
-<!--
-**UjjwalSharma0112/UjjwalSharma0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🎓 Pursuing B.Tech.  
+🌐 Fair knowledge of Web Development  
+🧠 Currently exploring Generative AI
 
-Here are some ideas to get you started:
+## 💡 Interests  
+- AI-powered Web Apps  
+- Open Source Projects  
+- Learning by Building  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect  
+Feel free to check out my projects and connect!  
